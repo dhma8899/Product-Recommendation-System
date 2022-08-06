@@ -24,12 +24,10 @@ def emptyrows(df):
 def irrelevent(df):
     try:
         df = df.drop('CustomerID', axis=1)
-        df = df.drop('Quantity', axis=1)
         df = df.drop('Price', axis=1)
         df = df.drop('Country', axis=1)
     except:
         df = df.drop('StockCode', axis=1)
-        df = df.drop('Quantity', axis=1)
         df = df.drop('Price', axis=1)
         df = df.drop('Customer ID', axis=1)
         df = df.drop('Country', axis=1)
