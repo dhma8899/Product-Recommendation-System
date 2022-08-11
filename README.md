@@ -25,6 +25,7 @@ If the stores were to place new orders for items, this knowledge could also be u
 Providing discounts on prices on combinations of item bought together would further incentivize the customers to buy them and in turn help drive the sales.
 
 ## Link to the video demonstration
-[Group11_Product_recommedation_system_part6.mp4](Video demo)
+[Presentation](https://github.com/dhma8899/Product-Recommendation-System/blob/main/Group11_Product_recommedation_system_part6.mp4)
+
 ## Link to your final project paper
-[11_ProductRecommendationSystem_Part4.pdf](Project paper)
+[Report](https://github.com/dhma8899/Product-Recommendation-System/blob/main/11_ProductRecommendationSystem_Part4.pdf)
